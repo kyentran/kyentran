@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kyentran! Just call me KY :>
-- 👀 I’m currently learning Finance!
-- 🌱 I’m a newbie to program and I want to learn how to align programming to my major.
-- 💞️ I’m looking to collaborate on building financial models and do financial data analysis. But just basic first of course :)
-- 📫 Leave me a message anytime through WA with +84 523 188 523 :) 
+- 👋 Hi, I’m KY :>
+- 🌱 I’m a newbie to program :)
+- 💞️ I’m interested in learning how to build financial models and do financial data analysis. But just basic first of course 
+- 📫 Leave me a message anytime hehee
 *Note: I am very friendly too :D
 
 <!---
